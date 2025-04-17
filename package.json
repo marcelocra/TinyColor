@@ -1,0 +1,11 @@
+{
+  "name": "@marcelocra/tinycolor2",
+  "version": "1.6.0",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./tinycolor.js",
+      "require": "./tinycolor.cjs"
+    }
+  }
+}
